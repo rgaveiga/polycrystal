@@ -4,4 +4,4 @@ The first program, *grain_builder*, allows you to create a three-dimensional sim
 
 Usage is quite straightforward, just provide the input needed by any of the programs while running.
 
-Questions, comments or suggestions? 
+Questions, comments or suggestions? Feel free to send an [e-mail](mailto:roberto.veiga@ufabc.edu.br).
