@@ -41,7 +41,7 @@ program grain_builder
     write(6,*) '                       GRAIN_BUILDER                           '
     write(6,*) 'A program for generating polycrystals with three-dimensional   '
     write(6,*) '  structure developed by Dr. Roberto Gomes de Aguiar Veiga,    '
-    write(6,*) '       at Universidade de São Paulo, Brazil (2012).            '
+    write(6,*) '       at Universidade de Sï¿½o Paulo, Brazil (2012).            '
     write(6,*) '---------------------------------------------------------------'
     write(6,*)
 
@@ -126,7 +126,7 @@ program grain_builder
 	elseif(lattice=='diamond')then
 		natucell=8
 	elseif(lattice=='hcp')then
-		natucell==4
+		natucell=4
 	elseif(lattice=='custom')then
 7		write(6,*) '===> Number of atoms in the unit cell:'	
 		read(*,*) natucell
