@@ -8,5 +8,6 @@ If you find them useful and if you don't mind, please cite my papers below in yo
 
 * [Stability of nanocrystalline Ni-based alloys: coupling Monte Carlo and molecular dynamics simulations](https://doi.org/10.1088/1361-651X/aa83ef)
 * [Thermal conductivity of nanocrystalline SiGe alloys using molecular dynamics simulations](http://dx.doi.org/10.1063/1.4826526)
+* [Lattice Instabilities and Phase Transformations in Fe from Atomistic Simulations](https://link.springer.com/article/10.1007/s11669-017-0524-0)
 
 Questions, comments or suggestions? Feel free to send an [e-mail](mailto:roberto.veiga@ufabc.edu.br).
